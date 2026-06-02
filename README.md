@@ -33,7 +33,7 @@ URLS_FILE              = "gut_links.json"   # 链接文件
 TEST_COUNT             = 0                  # 测试前几个（0=全部）
 HEADLESS               = False              # True=无头 False=有头
 PROXY                  = None               # 代理，如 "http://user:pass@host:port"
-# PROXY                = "http://brd-customer-hl_0c4f2698-zone-shannon_static_dedicated_pub:5lxp95wd8p78@brd.superproxy.io:33335"
+# PROXY                = ""
 CONCURRENCY            = 3                  # 每个实例并发 tab 数
 INSTANCES              = 2                  # 浏览器实例数（多实例并行）
 MAX_PAGES_PER_CONTEXT  = 10                 # 每 N 页自动回收浏览器
