@@ -1,5 +1,4 @@
-# to_be_learned
-待学习的知识内容
+## 待学习的内容
 
 - [ ] skope-rules
     - github: https://github.com/scikit-learn-contrib/skope-rules
@@ -10,6 +9,11 @@
     - github: https://github.com/datawhalechina/hello-agents
     - description: Datawhale 社区的系统性智能体学习教程
     - 完成日期: ****
-     
+
+- [ ] AI Agents的一些文章资料
+    - [一篇文章讲清楚 AI Agent 的核心概念：从 Model、Tool、Skill 到 Harness工程](https://mp.weixin.qq.com/s/RCEGqAvfJxbzaPJIJDOKwA)
+
+---
+## 已完成的计划
 - [x] cf_killer项目开发
     - 完成日期: 2026.06.02
