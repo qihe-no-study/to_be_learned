@@ -14,6 +14,12 @@
     - [ ] [为 Agent 设计工具，而不是为人](https://bbs.kanxue.com/thread-290329.htm)
     - [ ] [Seeing like an Agent:大模型工具的设计指南](https://bbs.kanxue.com/thread-290329.htm)
 
+- [ ] agent项目
+    - [ ] https://github.com/ziqihe10-droid/xuefeng-agent
+    
+- [ ] 需要实操的项目
+    - [ ] https://github.com/Mouseww/anything-analyzer
+    - [ ] https://github.com/WhiteNightShadow/firefox-reverse
 ---
 
 ## 已完成的计划
