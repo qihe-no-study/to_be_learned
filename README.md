@@ -3,6 +3,9 @@
     - github: https://github.com/scikit-learn-contrib/skope-rules
     - description: SkopeRules 能够高精度地找到逻辑规则并将其融合
     - 完成日期: ****
+     
+- [ ] agent学习录像
+    - https://www.nowcoder.com/discuss/864821937527128064
 
 - [ ] hello-agents
     - github: https://github.com/datawhalechina/hello-agents
